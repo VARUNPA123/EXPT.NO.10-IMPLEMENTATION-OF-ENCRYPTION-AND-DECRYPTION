@@ -135,9 +135,7 @@ void decrypt() {
 }
 ```
 # OUTPUT:
-
- 
-
+<img width="1475" height="567" alt="image" src="https://github.com/user-attachments/assets/5936eaf1-20f7-4daf-bd5f-ec32cd6a3438" />
 
 # RESULT:
 Thus the encryption and decryption is implemented and the output is obtained and verified successfully.
